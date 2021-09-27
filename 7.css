@@ -1,0 +1,20 @@
+table, th, td{
+    border:1px solid #868585;
+}
+table{
+    border-collapse:collapse;
+}
+table tr:nth-child(odd){
+    background-color:rgba(238, 238, 238, 0.61);
+}
+table tr:nth-child(even){
+    background-color:rgb(255, 255, 255);
+}
+table tr:nth-child(1){
+    background-color:skyblue;
+}
+body{
+    background-image: url('uploads/z2776746991826_6fd2c100efca9b87e780eddf21a40db7.jpg');
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+}
